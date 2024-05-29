@@ -1,5 +1,7 @@
 # A Catppuccin style theme for starship
 
+![Starship prompt](images/starship_theme.png)
+
 This is a custom made theme, (not an official one) using Catppuccin color pallete and inspired by typecraft youtube channel.
 
 ## How to use
